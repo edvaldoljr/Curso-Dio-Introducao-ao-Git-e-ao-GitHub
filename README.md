@@ -24,4 +24,4 @@
 
 ![](https://hermes.digitalinnovation.one/certificates/cover/CF5B7DC0.jpg)
 
-![](https://hermes.digitalinnovation.one/certificates/cover/3F0744FB.jpg)
+![](https://github.com/edvaldoljr/Introdu-o-ao-Git-e-ao-GitHub/blob/main/img/3F0744FB.jpg?raw=true)
