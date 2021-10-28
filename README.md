@@ -20,8 +20,8 @@
 - <b>git log:</b> devolve um histórico de alterações que o repositório vem sofrendo. Mostra o status do commit, quem realizou, horário, login da alteração do commit. Exibe os registros log do commit;
 - <b>git branch <nome_branch>:</b> é quando criamos uma nova ramificação, a partir da master. Lista, cria ou excluí ramificações.
 
-![](https://hermes.digitalinnovation.one/certificates/cover/5BDE835F.jpg)
-
 ![](https://github.com/edvaldoljr/Introdu-o-ao-Git-e-ao-GitHub/blob/main/img/5BDE835F.jpg?raw=true)
+  
+![](https://github.com/edvaldoljr/Introdu-o-ao-Git-e-ao-GitHub/blob/main/img/CF5B7DC0.jpg?raw=true)
 
 ![](https://github.com/edvaldoljr/Introdu-o-ao-Git-e-ao-GitHub/blob/main/img/3F0744FB.jpg?raw=true)
